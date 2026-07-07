@@ -238,7 +238,9 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 ## Certifications
 
-HackerRank
+<div align="center">
+
+**HackerRank**
 
 <a href="https://www.hackerrank.com/certificates/8035cc62d047">
   <img src="https://img.shields.io/badge/HackerRank-Python%20(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank-python-basic" />
@@ -246,7 +248,12 @@ HackerRank
 <a href="https://www.hackerrank.com/certificates/f74734ef3cc2">
   <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer%20Intern-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank-software-engineer-intern" />
 </a>
-<sub>Verify → Python (Basic) · Software Engineer Intern</sub>
+
+<br/>
+
+<sub>Verify → <a href="https://www.hackerrank.com/certificates/8035cc62d047">Python (Basic)</a> · <a href="https://www.hackerrank.com/certificates/f74734ef3cc2">Software Engineer Intern</a></sub>
+
+</div>
 
 ---
 
