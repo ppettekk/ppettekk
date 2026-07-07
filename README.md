@@ -17,10 +17,10 @@
 
 <br/><br/>
 
-<a href="https://t.me/your-telegram">
+<a href="https://t.me/ppettekk">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
-<a href="mailto:you@example.com">
+<a href="mailto:shuvarikov.petr@gmail.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="https://github.com/ppettekk">
