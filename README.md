@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=220&section=header&text=Petr%20Shuvarikov&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Telegram%20Bots%20%7C%20Payment%20Integrations&descSize=17&descAlignY=54&animation=fadeIn" alt="header" />
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/ppettekk">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%7C+Freelancer;Telegram+Bots+%2B+Payment+Integrations;Web+Automation+%26+Scraping;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Vue;VPS+%C2%B7+nginx+%C2%B7+systemd+%C2%B7+ESP32" alt="typing" />
 </a>
 
@@ -23,18 +23,13 @@
 <a href="mailto:you@example.com">
   <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/ppettekk">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://kwork.ru/user/your-kwork">
-  <img src="https://img.shields.io/badge/Kwork-6D28D9?style=for-the-badge&logo=k&logoColor=white" alt="kwork" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
-<img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=FOLLOWERS" alt="followers" />
-<img src="https://img.shields.io/github/stars/your-username?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=TOTAL+STARS" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=ppettekk&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="views" />
 
 </div>
 
@@ -46,12 +41,12 @@
 
 ## About
 
-Full-stack developer and student. Working as an independent freelancer, I build production systems tailored to client needs: Telegram bots with payment processing and fiscal receipts, web automation and scrapers, and full-stack applications. I value direct communication and shipping working results fast over endless discussion.
+Full-stack developer and student at RANEPA. Working as an independent freelancer, I build production systems tailored to client needs: Telegram bots with payment processing and fiscal receipts, web automation and scrapers, and full-stack applications. I value direct communication and shipping working results fast over endless discussion.
 
 - **Telegram ecosystem** — bots with aiogram and python-telegram-bot, WebApps, private channels, invite links.
-- **Payment integrations** — YooKassa, Platega, fiscal receipts, recurring payments, promo codes.
+- **Payment integrations** — YooKassa, Platega, fiscal receipts (54-FZ), recurring payments, promo codes.
 - **Web automation** — reverse-engineering mobile APIs, scrapers, userscripts and browser extensions, export to Excel.
-- **Full-stack + deployment** — React / Vue 3 / Angular, FastAPI, ModX; deployed on VPS.
+- **Full-stack + deployment** — React / Vue 3 / Angular, FastAPI, ModX; deployed on VPS via nginx + systemd.
 - **Hardware** — ESP32 and HUB08 LED matrices for real-time displays.
 
 ### Open To
@@ -74,17 +69,17 @@ Full-stack developer and student. Working as an independent freelancer, I build 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vue,angular,tailwind,html,css&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css&theme=dark" alt="frontend" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,sqlite&theme=dark" alt="backend" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite&theme=dark" alt="backend" />
 <br/>
 <sub>aiogram · python-telegram-bot · ModX CMS</sub>
 
 **Infra, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,githubactions,vscode&theme=dark" alt="devops" />
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,vscode&theme=dark" alt="devops" />
 <br/>
 <sub>VPS · systemd · YooKassa · Platega</sub>
 
@@ -135,7 +130,7 @@ A production bot for selling educational courses with payment processing, fiscal
 | **Payments** | Payment via Platega + fiscal receipts (54-FZ) |
 | **Deploy** | VPS · nginx · systemd |
 | **Impact** | Fully automated sales and access delivery, no manual steps |
-| **Repository** | [github.com/your-username/boostege](https://github.com/your-username/boostege) |
+| **Repository** | [github.com/ppettekk/boostege](https://github.com/ppettekk/boostege) |
 
 The full sales cycle inside Telegram: course catalog, payment with receipt, and automatic access to a private channel via a one-time invite link. Deployed as a systemd service behind nginx on a VPS.
 
@@ -153,7 +148,7 @@ Concept and technical implementation of a gig/job aggregator for teenagers with 
 | **Stack** | aiogram · React (WebApp) · PostgreSQL |
 | **Format** | Telegram Mini App on top of a bot |
 | **Scope** | Full spec, architecture, WebApp frontend |
-| **Repository** | [github.com/your-username/grindy](https://github.com/your-username/grindy) |
+| **Repository** | [github.com/ppettekk/grindy](https://github.com/ppettekk/grindy) |
 
 A bot + WebApp combo: a feed of gigs with filters inside the Mini App interface, backed by aiogram and Postgres.
 
@@ -171,7 +166,7 @@ A scraper for the pamyat-naroda.ru memorial database via reverse-engineering the
 | **Stack** | Python · requests · openpyxl |
 | **Method** | Reverse-engineered mobile JSON API |
 | **Output** | Excel tables + downloaded photos/scans |
-| **Repository** | [github.com/your-username/pamyat-naroda-scraper](https://github.com/your-username/pamyat-naroda-scraper) |
+| **Repository** | [github.com/ppettekk/pamyat-naroda-scraper](https://github.com/ppettekk/pamyat-naroda-scraper) |
 
 Bypassing web limitations through the app's mobile API, with structured export of records and documents to Excel alongside images.
 
@@ -189,7 +184,7 @@ A hardware display that shows Faceit/CS2 stats in real time on an LED matrix.
 | **Stack** | ESP32 · C++ · HUB08 LED matrix · Faceit API |
 | **Type** | IoT / hardware |
 | **Features** | Pulls Faceit stats via API and renders them on the matrix |
-| **Repository** | [github.com/your-username/faceit-led-panel](https://github.com/your-username/faceit-led-panel) |
+| **Repository** | [github.com/ppettekk/faceit-led-panel](https://github.com/ppettekk/faceit-led-panel) |
 
 The ESP32 periodically polls the Faceit API and renders ELO/stats onto a HUB08 matrix — a physical desk dashboard.
 
@@ -261,12 +256,12 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="180em" src="https://streak-stats.demolab.com?user=your-username&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A855F7&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppettekk&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=ppettekk&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A855F7&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top-langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppettekk&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top-langs" />
 
 </div>
 
@@ -280,7 +275,7 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ppettekk&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
@@ -294,7 +289,7 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=8B5CF6&line=A855F7&point=ffffff&area=true&area_color=6366F1&hide_border=true" alt="activity-graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ppettekk&bg_color=0d1117&color=8B5CF6&line=A855F7&point=ffffff&area=true&area_color=6366F1&hide_border=true" alt="activity-graph" />
 
 </div>
 
@@ -308,7 +303,7 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img width="100%" src="https://raw.githubusercontent.com/ppettekk/ppettekk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
@@ -349,17 +344,14 @@ open_to:
 
 <div align="center">
 
-<a href="https://t.me/your-telegram">
+<a href="https://t.me/ppettekk">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
 </a>
-<a href="mailto:you@example.com">
+<a href="mailto:shuvarikov.petr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/ppettekk">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://kwork.ru/user/your-kwork">
-  <img src="https://img.shields.io/badge/Kwork-6D28D9?style=for-the-badge&logo=k&logoColor=white" alt="kwork" />
 </a>
 
 </div>
