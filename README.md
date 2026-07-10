@@ -117,26 +117,6 @@ Full-stack developer and student at RANEPA. Working as an independent freelancer
 ## Featured Projects
 
 <details>
-<summary><b>BoostEge — Telegram Bot for Selling Courses</b></summary>
-
-<br/>
-
-A production bot for selling educational courses with payment processing, fiscal receipts, and automated access to private channels.
-
-| | |
-| :--- | :--- |
-| **Stack** | Python · python-telegram-bot v22 · PostgreSQL · Platega |
-| **Features** | Sections/categories, promo codes, invite links to private channels |
-| **Payments** | Payment via Platega + fiscal receipts (54-FZ) |
-| **Deploy** | VPS · nginx · systemd |
-| **Impact** | Fully automated sales and access delivery, no manual steps |
-| **Repository** | [github.com/ppettekk/boostege](https://github.com/ppettekk/boostege) |
-
-The full sales cycle inside Telegram: course catalog, payment with receipt, and automatic access to a private channel via a one-time invite link. Deployed as a systemd service behind nginx on a VPS.
-
-</details>
-
-<details>
 <summary><b>Grindy — Gig Aggregator for Teenagers</b></summary>
 
 <br/>
