@@ -258,7 +258,6 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 <!-- 10. GITHUB TROPHIES                                            -->
 <!-- ============================================================= -->
 
----
 
 <!-- ============================================================= -->
 <!-- 11. CONTRIBUTION ACTIVITY                                      -->
