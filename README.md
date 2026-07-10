@@ -245,12 +245,10 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppettekk&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
 <img height="180em" src="https://streak-stats.demolab.com?user=ppettekk&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A855F7&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppettekk&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top-langs" />
 
 </div>
 
@@ -259,14 +257,6 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 <!-- ============================================================= -->
 <!-- 10. GITHUB TROPHIES                                            -->
 <!-- ============================================================= -->
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ppettekk&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
 
 ---
 
