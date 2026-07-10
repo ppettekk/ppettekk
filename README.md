@@ -184,7 +184,7 @@ A hardware display that shows Faceit/CS2 stats in real time on an LED matrix.
 | **Stack** | ESP32 · C++ · HUB08 LED matrix · Faceit API |
 | **Type** | IoT / hardware |
 | **Features** | Pulls Faceit stats via API and renders them on the matrix |
-| **Repository** | [github.com/ppettekk/faceit-led-panel](https://github.com/ppettekk/faceit-led-panel) |
+| **Repository** | [github.com/ppettekk/faceit_arduino](https://github.com/ppettekk/faceit_arduino) |
 
 The ESP32 periodically polls the Faceit API and renders ELO/stats onto a HUB08 matrix — a physical desk dashboard.
 
