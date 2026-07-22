@@ -235,7 +235,7 @@ Building bots, automations, and web applications on a contract basis. Sourcing c
 
 **Harvard University**
 <a href="https://cs50.harvard.edu/certificates/53586915-892f-49c9-86eb-d5e17c075479">
-  <img src="https://img.shields.io/badge/HarvardX-CS50W%20Web%20Programming-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="cs50w" />
+  <img src="https://img.shields.io/badge/HarvardX-CS50W%20Web%20Programming-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="cs50w" /> <br/>
 </a><sub>CS50’s Web Programming with Python and JavaScript</sub>
 
 </div>
